@@ -1,0 +1,15 @@
+[submodule "shell"]
+	path = shell
+	url = https://github.com/sivamedia/shell.git
+[submodule "orders"]
+	path = orders
+	url = https://github.com/sivamedia/orders.git
+[submodule "products"]
+	path = products
+	url = https://github.com/sivamedia/products.git
+[submodule "users"]
+	path = users
+	url = https://github.com/sivamedia/users.git
+[submodule "mfe-infra"]
+	path = mfe-infra
+	url = https://github.com/sivamedia/mfe-infra.git
